@@ -156,7 +156,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll_pages_api_search
+  #- jekyll_pages_api_search
   - jekyll_oembed
 
 # Configuration for jekyll_pages_api_search plugin gem.
