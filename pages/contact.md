@@ -5,6 +5,7 @@ layout: primary
 content_wide: true
 gridless: true
 ---
+<!--
 <div class="usa-grid usa-grid-reversed">
 <aside class="usa-section usa-grid-reversed-right usa-width-one-third section-info section-info-gray">
   <ul>
@@ -25,7 +26,7 @@ gridless: true
     </li>
   </ul>
 </aside>
-<div class="usa-section usa-width-two-thirds">
+<div class="usa-section usa-width-two-thirds"> -->
 {% markdown %}
 
 ### Let’s work together to improve the user experience of government.
