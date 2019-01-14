@@ -89,7 +89,7 @@ module SiteData
         checks = frontmatter['output'] != false && frontmatter['published'] != false
         next unless checks
 
-        authors = frontmatter['authors'].map { |a| "#{a}.md" }
+        authors = frontmatter['authors']
         published_authors << authors
       end
       published_authors.flatten.uniq
